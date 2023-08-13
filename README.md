@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Awesome Storage Proofs</h1>
 
-A place where you can find content, codebases, researches, projects and applications related to ZK Storage Proofs. Contributions and suggestions are always welcome, open issues or pull requests with any changes you want to be made and don't forget to join our Telegram community (link below).
+A place where you can find content, codebases, researches, projects and applications related to ZK Storage Proofs. [Contributions](https://github.com/HerodotusDev/awesome-storage-proofs/blob/main/CONTRIBUTING.md) and suggestions are always welcome, open issues or pull requests with any changes you want to be made
 
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -30,6 +30,8 @@ Here you can find a list of resources to get started with zero-knowledge cryptog
 - [Codebases](#codebases)
 - [Projects](#projects)
 - [Researches](#researches)
+  - [Merkle Mountain Range](#merkle-mountain-ranges)
+  - [Storage Layout](#storage-layout)
 - [Usecases](#usecases)
 
 ## Articles
@@ -50,7 +52,6 @@ Here you can find a list of resources to get started with zero-knowledge cryptog
 - [Lagrange Labs](https://www.lagrange.dev/)- Seamlessly interact between chains with cryptographically secure state proofs, not opaque intermediaries. Run expressive and dynamic distributed ZK computation at a Big Data scale on top of multi-chain contract states.
 - [nil Foundataon](https://nil.foundation/about) =nil; Foundation is a pioneer in zero-knowledge technology, dedicated to making zkProofs and trustless data management accessible for developers.
 - [Sunninct Labs](https://www.succinct.xyz/) - Powered by this proof of consensus, light client contracts on the target chain store the block headers of Ethereum. This enables anyone to supply state proofs of Ethereum (balances, storage, transactions, events, etc.)
-- ZeroSync
 
 ## Usecases
 
